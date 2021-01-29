@@ -1,1 +1,1 @@
-![Discord Message](message-screenshot.jpg)
+![Discord Message](message-screenshot.JPG)
