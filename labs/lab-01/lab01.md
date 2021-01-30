@@ -1,8 +1,8 @@
-# Lab 01
+# Lab 01 Report - Christine Koulopoulos
 
 ### 1.4:
 Here is a screenshot of my message:
-![Discord Message](message-screenshot.JPG)
+![Discord Message](images/message-screenshot.JPG)
 
 ### 2.3:
 1. Give examples. If an answer is complex it is usually useful to give an example of how you would apply the solution.
@@ -17,24 +17,24 @@ Here is a screenshot of my directory structure:
 
 ### 4.1
 Here are screenshots of my solutions:
-![Exercise1](exercise1.JPG)
-![Exercise2](exercise2.JPG)
-![Exercise3](exercise3.JPG)
-![Exercise4](exercise4.JPG)
-![Exercise5](exercise5.JPG)
-![Exercise6](exercise6.JPG)
-![Exercise7](exercise7.JPG)
+![Exercise1](images/exercise1.JPG)
+![Exercise2](images/exercise2.JPG)
+![Exercise3](images/exercise3.JPG)
+![Exercise4](images/exercise4.JPG)
+![Exercise5](images/exercise5.JPG)
+![Exercise6](images/exercise6.JPG)
+![Exercise7](images/exercise7.JPG)
 
 ### 4.2
 Here are screenshots of my solutions:
-![Problem1](p1.JPG)
-![Problem2](p2.JPG)
-![Problem3](p3.JPG)
-![Problem4](p4.JPG)
+![Problem1](images/p1.JPG)
+![Problem2](images/p2.JPG)
+![Problem3](images/p3.JPG)
+![Problem4](images/p4.JPG)
 
 ### 5.2
 Here is my solution using blockly:
-![BlocklySolution](blockly.JPG)
+![BlocklySolution](images/blockly.JPG)
 
 ### 6
 Looking at the list of Open Source Projects given, I skimmed through the names of projects, reading the introductions to those which interested me. One project that particularly interests me is Moodle (http://aosabook.org/en/moodle.html). What I like most is that it's a web app, because I've always been interested in creating one myself but don't know where to start. I also am interested in how plugins are used, because that is another thing I'm interested in learning about, and how their output is generated with different themes because I find UI design to be particularly exciting.
