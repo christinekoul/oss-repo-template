@@ -9,4 +9,5 @@ Discord: christinekoul
 ![Christine](images/selfie.jpg)
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+[Lab 1](labs/lab-01/lab01.md)
+[Lab 2](labs/lab-01/lab02.md)
