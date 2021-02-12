@@ -9,6 +9,6 @@ Discord: christinekoul
 ![Christine](images/selfie.jpg)
 
 ## Lab Reports
-* [Lab 1](labs/lab-01/lab01.md)
-* [Lab 2](labs/lab-02/lab02.md)
-* [Lab 3](labs/lab-03/lab03.md)
+* [Lab 1](https://github.com/christinekoul/oss-repo/blob/master/labs/lab-01/lab01.md)
+* [Lab 2](https://github.com/christinekoul/oss-repo/blob/master/labs/lab-02/lab02.md)
+* [Lab 3](https://github.com/christinekoul/oss-repo/blob/master/labs/lab-03/lab03.md)
