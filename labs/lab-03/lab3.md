@@ -26,7 +26,7 @@ https://github.com/christinekoul/oss-repo/wiki/Lab-3-Part-1
  * 39 contributors (compared to 33)
  * 52719 total lines of code (compared to 62080)
 
-### OpenCircuits (from https://github.com/TGCrystal/oss-labs/edit/master/labs/lab-03/report.md)
+### OpenCircuits (from https://github.com/TGCrystal/oss-labs/blob/master/labs/lab-03/report.md)
 - 33 contributors
 - 26796 lines of code
 - First commit: https://github.com/OpenCircuits/OpenCircuits/commit/c4a9e7d66d32391f9371a68a0749588a6218b5b3
