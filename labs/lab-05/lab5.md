@@ -54,6 +54,7 @@ target_include_directories(Tutorial PUBLIC
                            )
 ```
 Output:
+
 ![Output](images/step1-runs.JPG)
 
 ### Step 2
@@ -134,9 +135,11 @@ target_include_directories(Tutorial PUBLIC
                            )
 ```
 Output (with mysqrt):
+
 ![Output](images/step2-runsa.JPG)
 
 Output (with sqrt):
+
 ![Output](images/step2-runsb.JPG)
 
 The output using sqrt is more concise.
@@ -189,6 +192,7 @@ target_include_directories(MathFunctions
 ```
 
 Output:
+
 ![Output](images/step3-runs.JPG)
 
 ### Step 4
@@ -277,6 +281,7 @@ install(FILES MathFunctions.h DESTINATION include)
 ```
 
 Output:
+
 ![Output](images/step4-outputa.JPG)
 ![Output](images/step4-outputb.JPG)
 ![Output](images/step4-outputc.JPG)
@@ -389,7 +394,8 @@ endif()
 ```
 
 Output:
-![Output](images/step5-output.JPG)
+
+![Output](images/step5-outputa.JPG)
 
 ## Part 2
 
@@ -695,4 +701,5 @@ cmake_check_build_system:
 Block_shared is 8600 bytes and Block_static is 8784 bytes.
 
 Output:
+
 ![Output](images/part2-output.JPG)
