@@ -14,3 +14,6 @@ Discord: christinekoul
 * [Lab 3](https://github.com/christinekoul/oss-repo/blob/master/labs/lab-03/lab3.md)
 * [Lab 4](https://github.com/christinekoul/oss-repo/blob/master/labs/lab-04/lab4.md)
 * [Lab 5](https://github.com/christinekoul/oss-repo/blob/master/labs/lab-05/lab5.md)
+* [Lab 6](https://github.com/christinekoul/oss-repo/blob/master/labs/lab-06/lab6.md)
+* [Lab 7](https://github.com/christinekoul/oss-repo/blob/master/labs/lab-07/lab7.md)
+
