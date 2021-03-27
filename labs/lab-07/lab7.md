@@ -12,7 +12,8 @@
 
 3: There is one error, in the test "kwsys.testSystemTools". Looking further into it, the issue is that SetPermissions failed to set permissions. I'm not sure why this error is occurring and it doesn't seem to be too concerning.
 
-4: ![Screenshot](images/dashboard.JPG)
+4:
+![Screenshot](images/dashboard.JPG)
 
 ### Checkpoint 3
 
