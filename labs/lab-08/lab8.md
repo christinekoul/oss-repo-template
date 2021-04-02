@@ -19,5 +19,5 @@
 ### Example 4
 
 ![example4a](images/example4a.JPG)
-![example4b](images/example4a.JPG)
-![example4c](images/example4a.JPG)
+![example4b](images/example4b.JPG)
+![example4c](images/example4c.JPG)
