@@ -1,1 +1,0 @@
-{'_id': ObjectId('56fe9e22bad6b23cde07b931'), 'definition': ' n. Naval ROTC type.', 'word': 'Squid', 'dates': ['2021-04-12T19:58:46.434968']}
