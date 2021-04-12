@@ -30,4 +30,3 @@ The word "QPA" was the first to update randomly twice.
 ![checkpoint5](images/checkpoint5.JPG)
 
 - [Python script](checkpoint5.py)
-- [Output](checkpoint5output.txt)
